@@ -1,0 +1,262 @@
+body{background-color: hsl(27, 66%, 92%);
+ margin: auto;
+ margin-top: 150px;
+ font-family: 'DM Sans', sans-serif;
+
+}
+
+.BothContainers{
+ width: 450px;
+ margin: auto;
+ 
+}
+
+.HeadContainer{
+ background-color: hsl(10, 79%, 65%);
+ border-radius: 20px;
+ height: 100px;
+}
+img{
+ margin-left: 0px;
+ margin-bottom: 50px;
+ margin-top: -110px;
+ padding-top: 20px;
+ padding-left: 330px;
+}
+
+.HeadText{
+ padding-top: 10px;
+ padding-bottom: 10px;
+ padding-left: 25px;  
+}
+
+
+p.BalanceText{
+ color: hsl(27, 66%, 92%);
+}
+h3.Balance{
+ color: hsl(27, 66%, 92%);
+}
+
+
+.SecondContainer{
+ border-radius: 20px;
+ background-color: hsl(0, 0%, 100%);
+ height: 400px;
+}
+
+
+.Spending{
+ padding-left: 30px;
+ padding-top: 40px;
+ color: hsl(25, 47%, 15%);
+
+
+}
+
+
+.daysChart{
+ display: flex;
+ padding-top: 70px;
+ padding-left: 15px;
+
+}
+
+
+.Monday{
+ background-color: hsl(10, 79%, 65%);
+ border: 100px;
+ width: 40px;
+ height: 35px;
+ border-radius: 3px;
+ margin-left: 10px;
+ margin-right: 10px;
+ margin-top: 30px;
+}
+
+.Mon{
+ padding-top: 30px;
+ padding-left: 05px;
+ padding-right: 10px;
+ color: hsl(28, 10%, 53%);
+}
+
+.Tuesday{
+ background-color: hsl(10, 79%, 65%);
+ border: 100px;
+ width: 40px;
+ height: 70px;
+ border-radius: 3px;
+ margin-left: 10px;
+ margin-right: 10px;
+ /* margin-top: 30px; */
+}
+
+.Tues{
+ /* margin-top: 10px; */
+ padding-top: 60px;
+ padding-left: 05px;
+ padding-right: 10px;
+ color: hsl(28, 10%, 53%);
+}
+
+
+
+.Wednesday{
+ background-color: hsl(186, 34%, 60%);
+ border: 100px;
+ width: 40px;
+ height: 70px;
+ border-radius: 3px;
+ margin-left: 10px;
+ margin-right: 10px;
+}
+
+.Wed{
+ padding-top: 60px;
+ padding-left: 05px;
+ padding-right: 10px;
+ color: hsl(28, 10%, 53%);
+}
+
+.Thursday{
+ background-color: hsl(10, 79%, 65%);
+ border: 100px;
+ width: 40px;
+ height: 70px;
+ border-radius: 3px;
+ margin-left: 10px;
+ margin-right: 10px;
+}
+
+.Thu{
+ padding-top: 60px;
+ padding-left: 05px;
+ padding-right: 10px;
+ color: hsl(28, 10%, 53%);
+}
+
+.Friday{
+ background-color: hsl(10, 79%, 65%);
+ border: 100px;
+ width: 40px;
+ height: 70px;
+ border-radius: 3px;
+ margin-left: 10px;
+ margin-right: 10px;
+}
+
+.Fri{
+ padding-top: 60px;
+ padding-left: 05px;
+ padding-right: 10px;
+ color: hsl(28, 10%, 53%);
+}
+
+.Saturday{
+ background-color: hsl(10, 79%, 65%);
+ border: 100px;
+ width: 40px;
+ height: 70px;
+ border-radius: 3px;
+ margin-left: 10px;
+ margin-right: 10px;
+}
+
+.Sat{
+ padding-top: 60px;
+ padding-left: 05px;
+ padding-right: 10px;
+ color: hsl(28, 10%, 53%);
+}
+
+.Sunday{
+ background-color: hsl(10, 79%, 65%);
+ border: 100px;
+ width: 40px;
+ height: 70px;
+ border-radius: 3px;
+ margin-left: 10px;
+ margin-right: 10px;
+}
+
+.Sun{
+ padding-top: 60px;
+ padding-left: 5px;
+ padding-right: 10px;
+ color: hsl(28, 10%, 53%);
+}
+
+
+hr{
+ margin-top: 60px;
+ margin-right: 70px;
+ margin-bottom: 30px;
+ margin-left: 40px;
+ width: 350px;
+ background-color: hsl(28, 10%, 53%);
+ color: hsl(28, 10%, 53%);
+}
+
+.ThirdContainer{
+ margin-top: 25px;
+ padding-left: 20px;
+}
+
+
+.RightText{
+ width: 50%;
+ margin-left: 300px;
+ margin-bottom: 20px;
+ margin-top: -65px;
+ /* margin-right: 2px; */
+}
+
+p.Percentage{
+ padding-left: 72px;
+ padding-bottom: 2px;
+ font-weight: 1000;
+ color: hsl(25, 47%, 15%);
+ 
+}
+
+p.Month{
+ padding-top: 5px;
+ margin-top: -25px;
+ color: hsl(28, 10%, 53%);
+}
+
+.LeftText{
+ margin-top: 20px;
+ width: 30%;
+ margin-right: 20px;
+}
+
+p.Total{
+ color: hsl(28, 10%, 53%);
+ margin-bottom: -30px;
+ font-size: 10px;
+
+
+
+}
+
+h1.DollarAmount{
+ color: hsl(25, 47%, 15%);
+ font-size: 30px;
+ font-weight: 1000;
+ padding-top: 10px;
+
+
+}
+
+
+
+.attribution { 
+ font-size: 11px; text-align: center; 
+}
+.attribution a {
+ color: hsl(228, 45%, 44%); 
+}
+
+
